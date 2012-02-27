@@ -1,2 +1,2 @@
-This program implements a playout for Havannah on Nvidia's CUDA. Playouts are used in Monte-Carlo-Evaluation. For more information there is a document in /doc/documentation.pdf (German).
+This program implements a playout for Havannah on Nvidia's CUDA. Playouts are used in Monte-Carlo-Evaluation. For more information there is a document in /doc/HavannahCUDA.pdf (German).
 The program is free software under the terms of GPL (see source code header or licence.txt for more information.
